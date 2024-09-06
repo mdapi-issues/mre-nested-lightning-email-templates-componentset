@@ -7,7 +7,7 @@
     "@salesforce/source-deploy-retrieve": "11.6.5"
   },
   "devDependencies": {
-    "@salesforce/dev-scripts": "9.1.2"
+    "@salesforce/dev-scripts": "10.2.10"
   },
   "keywords": [
     "salesforce",
