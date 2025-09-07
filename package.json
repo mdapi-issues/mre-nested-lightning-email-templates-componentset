@@ -4,7 +4,7 @@
   "version": "0.0.0-development",
   "author": "Matthias Rolke @amtrack",
   "dependencies": {
-    "@salesforce/source-deploy-retrieve": "12.19.10"
+    "@salesforce/source-deploy-retrieve": "12.22.12"
   },
   "devDependencies": {
     "@salesforce/dev-scripts": "11.0.2"
