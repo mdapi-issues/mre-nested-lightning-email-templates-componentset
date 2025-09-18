@@ -19,6 +19,6 @@ jobs:
           node-version-file: .node-version
       - name: Install dependencies
         run: |
-          npm ci
+          npm ci --ignore-scripts
       - name: Reproduce Issue
         run: npm run test
